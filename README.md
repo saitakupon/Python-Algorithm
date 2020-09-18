@@ -1,5 +1,5 @@
 # Python-Algorithm
-Python-Algorithm created by saitakupon
+Python-Algorithm packages created by saitakupon
 
 # About
 
